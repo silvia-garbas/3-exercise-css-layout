@@ -1,0 +1,46 @@
+*{
+  box-sizing: 
+  border-box;
+}
+html, body {
+  height: 100%;
+}
+
+.main-container {
+  display:flex;
+  max-width: 75%;
+  height: 100%;
+} 
+
+.titulo {
+  color: white;
+  background-color: black;
+  padding: 30px;
+}
+
+.titular.text{
+  background-color: green;
+  margin:0px;
+}
+.titular {
+  background-color: #e6dede;
+}
+
+.body {
+  margin:0;
+  max-width: 1200px;
+  max-height: 1200px;
+  width: 90%;
+  height: 90%;
+}
+
+.aside {
+  background-color: grey;
+ min-width: 25%;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
